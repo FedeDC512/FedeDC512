@@ -24,7 +24,7 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fededc512&show_icons=true&theme=github_dark&locale=en&layout=compact&hide=scss,ejs" alt="fededc512" /></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=fededc512&show_icons=true&theme=github_dark&locale=en&hide=contribs&rank_icon=github" alt="fededc512" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=fededc512&show_icons=true&theme=github_dark&locale=en&rank_icon=github" alt="fededc512" /></p>
 <br><br><br><br><br><br><br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fededc512&row=1&column=5&theme=darkhub" alt="fededc512" /></a> </p>
 
