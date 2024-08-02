@@ -3,11 +3,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fededc512&label=Profile%20views&color=0e75b6&style=flat" alt="fededc512" /> </p>
 
-- 🐉 I’m currently working on [LivingDexTracker](https://livingdextracker-fd.web.app/)
+- 🕹️ Passionate about **Game Design and Development**
+
+- 🐉 I’m currently contributing to [LivingDexTracker](https://livingdextracker-fd.web.app/)
 
 - 🔭 I am doing my best to **improve my programming skills**
 
 - 🌱 I’m currently learning **new programming languages**
+
+- 👾 Check out the games I've worked on:
+  - [Turns](https://github.com/AppleFoundationTurns/Turns)
+  - [Small Animals' Worth](https://github.com/FedeDC512/SmallAnimalsWorth)
+  - [PentaQuest](https://github.com/UniDank/ProgettoPentagono)
 
 <!--
 - 👨‍💻 All of my projects are available at [fededc512.github.io](fededc512.github.io)
