@@ -11,6 +11,8 @@
 
 - 🌱 I’m currently learning **new programming languages**
 
+<!-- -->
+
 - 👾 Check out the games I've worked on:
   - [Turns](https://github.com/AppleFoundationTurns/Turns)
   - [Small Animals' Worth](https://github.com/FedeDC512/SmallAnimalsWorth)
