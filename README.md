@@ -5,7 +5,7 @@
 
 - 🕹️ Passionate about **Game Design and Development**
 
-- 🐉 I’m currently contributing to [LivingDexTracker](https://livingdextracker-fd.web.app/)
+- 🐉 I’m currently contributing to [LivingDex Tracker](https://livingdextracker-fd.web.app/)
 
 - 🔭 I am doing my best to **improve my programming skills**
 
