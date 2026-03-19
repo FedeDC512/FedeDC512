@@ -16,7 +16,7 @@
 - 👾 Check out the games I've worked on:
   - [LOOT JACKAL, LOOT!](https://frobby.itch.io/loot-jackal-loot)
   - [Turns](https://github.com/AppleFoundationTurns/Turns)
-  - [Small Animals' Worth](https://github.com/FedeDC512/SmallAnimalsWorth)
+  - [Small Animals' Worth](https://fededc512.itch.io/small-animals-worth)
   - [PentaQuest](https://github.com/UniDank/ProgettoPentagono)
 
 <!--
